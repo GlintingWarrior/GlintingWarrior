@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GlintingWarrior
 - 👀 I’m interested in Programming and Management Skills
-- 🌱 I’m currently learning C++ and Python
+- 🌱 I’m currently learning C++, java and Python
 
 <!---
 GlintingWarrior/GlintingWarrior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
